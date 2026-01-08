@@ -1,0 +1,3 @@
+python is high level language .
+python is developed by guado van rossum in 1947.
+
